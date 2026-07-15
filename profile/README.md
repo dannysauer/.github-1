@@ -32,4 +32,5 @@ The project has a growing ecosystem with known implementations in:
 
 * Go (original): https://github.com/openvex/go-vex
 * .NET: [NuGet](https://www.nuget.org/packages/OpenVEX/) [GitHub](https://github.com/JamieMagee/openvex.net)
+* Python: [Vexcalibur](https://github.com/vexcalibur-dev/vexcalibur) ([PyPI](https://pypi.org/project/vexcalibur/))
 * Rust: https://docs.rs/openvex/latest/openvex/
